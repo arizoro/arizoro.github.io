@@ -32,5 +32,5 @@ function loadFile(url, fileName) {
 };
 
 function downloadFile(){
-    loadFile('/assets/CV.pdf', 'CV.pdf')
+    loadFile('/assets/New-Cv.pdf', 'New-Cv.pdf')
 }
