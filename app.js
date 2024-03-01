@@ -32,5 +32,5 @@ function loadFile(url, fileName) {
 };
 
 function downloadFile(){
-    loadFile('/assets/New-Cv.pdf', 'New-Cv.pdf')
+    loadFile('/assets/Codepolitan_cv.pdf', 'my_cv.pdf')
 }
